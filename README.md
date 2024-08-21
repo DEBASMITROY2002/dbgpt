@@ -1,1 +1,1 @@
-https://drive.google.com/uc?export=view&id=1TERLXUTB297ukGnMKbTsLtPwqVbHZoxJ
+https://huggingface.co/lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF/blob/main/Meta-Llama-3.1-8B-Instruct-IQ4_XS.gguf
