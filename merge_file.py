@@ -14,4 +14,4 @@ def merge_chunks(chunk_dir, output_file):
     print(f"File merged into {output_file}")
 
 # Usage Example
-merge_chunks("./src/book1.pdf_chunks", "./src/book1_reconstructed.pdf")
+merge_chunks("./longformer-base-4096/pytorch_model.bin_chunks", "./longformer-base-4096/pytorch_model.bin_chunks")

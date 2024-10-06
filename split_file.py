@@ -25,4 +25,4 @@ def split_file(file_path, chunk_size_mb=99):
     print(f"File split into {chunk_number} chunks in {chunk_dir}")
 
 # Usage Example
-split_file("./splade-cocodenser-ensembled/pytorch_model.bin", chunk_size_mb=99)
+split_file("./longformer-base-4096/pytorch_model.bin", chunk_size_mb=99)
